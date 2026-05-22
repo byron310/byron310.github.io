@@ -1,0 +1,16 @@
+*{ margin:0;
+	Padding:0;
+ }
+ ul { }
+ ul li{ display: inline-block;
+ list-style: 0; }
+ ul li a{ text-decoration: 0;
+ 	font size: 14 px;
+ 	font-family: arial;
+ 	padding:0 20 px;
+ 	color: black;
+
+ 	Nav { width:100%;
+		Height:100 px;
+		
+}

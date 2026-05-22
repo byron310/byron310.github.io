@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+
+<body>
+        <h1>Top Bins FC</h1>
+<nav>
+<ul>
+    <a href = "About.html"> About </a>
+    <a href = "index.html"> Home </a>
+    <a href = "Location.html"> Location </a
+</ul>
+</nav>
+<p> We are all about Football/ Soccer/ Futbol. </p>
+
+
+<img src = "https://thumbs.dreamstime.com/z/world-s-best-clubs-white-199360348.jpg" alt = "alternate text" >
+
+
+
+<link type = " text/css" rel= "stylesheet" href="bert.css"/>
+<link type = " text/css" rel= "stylesheet" href="style.css"/>
+
+
+</body>
+</html>

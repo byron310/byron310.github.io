@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+
+<body>
+        <h1>Top Bins FC</h1>
+<div>
+<ul>
+    <a href = "About.html"> About </a>
+    <a href = "index.html"> Home </a>
+    <a href = "Location.html"> Location </a
+    <a href = "Video.html"> Video </a
+    <a href = "form.html"> Form </a
+</ul>
+</div>
+
+<div>
+<p> We are all about Football/ Soccer/<span style="color:red;"> Futbol. </p>
+</div>
+<div>
+<img src = "https://thumbs.dreamstime.com/z/world-s-best-clubs-white-199360348.jpg" alt = "alternate text" >
+</div>
+<script>
+
+    var nameofvariable;
+      nameofvariable= 5;
+      Var Cities["Paris","Barcelona","London","Mexico City"];
+
+      if(height:6 ft)
+   {
+   Statements to execute when
+    condition is true(when my height is 6 ft);
+    }
+else
+{ statements to execute if statement is false;}
+alert("hello");
+</script>
+
+
+
+
+<footer>
+    <ul>
+        <a href="Home.html">Home</a>
+    </ul>
+</footer>
+
+</body>
+<link type = " text/css" rel= "stylesheet" href="bert.css"/>
+<link type = " text/css" rel= "stylesheet" href="style.css"/>
+<script> src="js/script.js"></script>
+
+
+</html>
